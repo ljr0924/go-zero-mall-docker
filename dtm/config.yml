@@ -1,0 +1,4 @@
+MicroService:
+  Driver: 'dtm-driver-gozero'
+  Target: 'etcd://etcd:2379/dtmservice'
+  EndPoint: 'dtm:36790'
